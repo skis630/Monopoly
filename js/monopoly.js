@@ -320,7 +320,6 @@ Monopoly.isValidInput = function(validate,value){
             }
             //TODO: remove when done
             console.log("the val " + value)
-            isValid = true;
             break;
     }
 
